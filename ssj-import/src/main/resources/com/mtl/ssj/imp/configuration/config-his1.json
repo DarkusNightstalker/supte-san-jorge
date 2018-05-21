@@ -1,0 +1,132 @@
+{
+  "fileType": "dbf",
+  "fields": {
+    "COD_2000" :{
+      "description": "",
+      "classField": "cod2000",
+      "type": {
+        "allowed":[
+          "java.lang.String"
+        ],
+        "target": "java.lang.String"
+      }
+    },
+    "ANO" :{
+      "description": "",
+      "classField": "year",
+      "type": {
+        "allowed":[
+          "java.lang.Integer",
+          "java.math.BigDecimal"
+        ],
+        "target": "java.lang.Integer"
+      }
+    },
+    "MES" :{
+      "description": "",
+      "classField": "month",
+      "type": {
+        "allowed":[
+          "java.lang.Integer",
+          "java.math.BigDecimal"
+        ],
+        "target": "java.lang.Integer"
+      }
+    },
+    "NOM_LOTE" :{
+      "description": "",
+      "classField": "nomLote",
+      "type": {
+        "allowed":[
+          "java.lang.String"
+        ],
+        "target": "java.lang.String"
+      }
+    },
+    "NUM_PAG" :{
+      "description": "",
+      "classField": "pageNumber",
+      "type": {
+        "allowed":[
+          "java.lang.Integer"
+        ],
+        "target": "java.lang.Integer"
+      }
+    },
+    "CODIF" :{
+      "description": "",
+      "classField": "codif",
+      "type": {
+        "allowed":[
+          "java.lang.String"
+        ],
+        "target": "java.lang.String"
+      }
+    },
+    "COD_SERVSA" :{
+      "description": "",
+      "classField": "codServsa",
+      "type": {
+        "allowed":[
+          "java.lang.String"
+        ],
+        "target": "java.lang.String"
+      }
+    },
+    "PLAZA" :{
+      "description": "",
+      "classField": "plaza",
+      "type": {
+        "allowed":[
+          "java.lang.String"
+        ],
+        "target": "java.lang.String"
+      }
+    },
+    "ESTA_PAG" :{
+      "description": "",
+      "classField": "plaza",
+      "type": {
+        "allowed":[
+          "java.lang.String"
+        ],
+        "target": "java.lang.String"
+      }
+    },
+    "TOT_REG" :{
+      "description": "",
+      "classField": "totalRecord",
+      "type": {
+        "allowed":[
+          "java.lang.Integer"
+        ],
+        "target": "java.lang.Integer"
+      }
+    },
+    "FLAG_ENVIO" :{
+      "description": "",
+      "classField": "sendFlag",
+      "type": "java.lang.String"
+    },
+    "MT" :{
+      "description": "",
+      "classField": "mt",
+      "type": {
+        "allowed":[
+          "java.lang.String"
+        ],
+        "target": "java.lang.String"
+      }
+    },
+    "ST" :{
+      "description": "",
+      "classField": "st",
+      "type": {
+        "allowed":[
+          "java.lang.String"
+        ],
+        "target": "java.lang.String"
+      }
+    }
+  }
+}

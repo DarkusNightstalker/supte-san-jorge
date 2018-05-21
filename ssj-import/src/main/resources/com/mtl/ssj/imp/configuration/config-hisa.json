@@ -1,0 +1,70 @@
+{
+  "fileType": "dbf",
+  "fields": {
+    "COD_2000" :{
+      "description": "",
+      "classField": "cod2000",
+      "type": "java.lang.String"
+    },
+    "ANO" :{
+      "description": "",
+      "classField": "year",
+      "type": "java.lang.Integer"
+    },
+    "MES" :{
+      "description": "",
+      "classField": "month",
+      "type": "java.lang.Integer"
+    },
+    "NOM_LOTE" :{
+      "description": "",
+      "classField": "nomLote",
+      "type": "java.lang.String"
+    },
+    "NUM_PAG" :{
+      "description": "",
+      "classField": "pageNumber",
+      "type": "java.lang.Integer"
+    },
+    "CODIF" :{
+      "description": "",
+      "classField": "codif",
+      "type": "java.lang.String"
+    },
+    "COD_SERVSA" :{
+      "description": "",
+      "classField": "codServsa",
+      "type": "java.lang.String"
+    },
+    "PLAZA" :{
+      "description": "",
+      "classField": "plaza",
+      "type": "java.lang.String"
+    },
+    "ESTA_PAG" :{
+      "description": "",
+      "classField": "plaza",
+      "type": "java.lang.String"
+    },
+    "TOT_REG" :{
+      "description": "",
+      "classField": "totalRecords",
+      "type": "java.lang.Integer"
+    },
+    "FLAG_ENVIO" :{
+      "description": "",
+      "classField": "sendFlag",
+      "type": "java.lang.String"
+    },
+    "MT" :{
+      "description": "",
+      "classField": "mt",
+      "type": "java.lang.String"
+    },
+    "ST" :{
+      "description": "",
+      "classField": "st",
+      "type": "java.lang.String"
+    }
+  }
+}
